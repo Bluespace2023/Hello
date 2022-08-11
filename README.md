@@ -1,2 +1,1 @@
-# Hello
-This organization provides an information exchange platform for the members of the njtech-bluespace 2022 recruit competition and a platform for the algorithm group competition
+#此组织用于BlueSpace2022年校内赛规则与信息公布以及算法组比赛平台
